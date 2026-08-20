@@ -61,5 +61,5 @@ I design intelligent systems for machines and capture precise moments in time fo
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE"><b>[ Initialize Connection via LinkedIn ]</b></a>
+  <a href=https://www.linkedin.com/in/hritik-kalyani/><b>[ Initialize Connection via LinkedIn ]</b></a>
 </p>
